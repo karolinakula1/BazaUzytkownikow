@@ -1,2 +1,0 @@
-# BazaUzytkownikow
-Programowanie - projekt
